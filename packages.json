@@ -1,0 +1,12 @@
+[
+  {
+    "package": "PEcAn.logger",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "base/logger"
+  },
+  {
+    "package": "PEcAn.remote",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "base/remote"
+  }
+]
