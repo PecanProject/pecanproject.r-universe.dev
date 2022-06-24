@@ -1,12 +1,227 @@
 [
   {
+    "package": "PEcAn.all",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "base/all"
+  },
+  {
+    "package": "PEcAn.DB",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "base/db"
+  },
+  {
     "package": "PEcAn.logger",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "base/logger"
   },
   {
+    "package": "PEcAn.qaqc",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "base/qaqc"
+  },
+  {
     "package": "PEcAn.remote",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "base/remote"
+  },
+  {
+    "package": "PEcAn.settings",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "base/settings"
+  },
+  {
+    "package": "PEcAn.utils",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "base/utils"
+  },
+  {
+    "package": "PEcAn.visualization",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "base/visualization"
+  },
+  {
+    "package": "PEcAn.workflow",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "base/workflow"
+  },
+  {
+    "package": "PEcAn.BIOCRO",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "biocro.Rcheck/PEcAn.BIOCRO"
+  },
+  {
+    "package": "PEcAn.BASGRA",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/basgra"
+  },
+  {
+    "package": "PEcAn.BIOCRO",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/biocro"
+  },
+  {
+    "package": "PEcAn.BIOCRO",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/biocro/..Rcheck/PEcAn.BIOCRO"
+  },
+  {
+    "package": "PEcAn.CABLE",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/cable"
+  },
+  {
+    "package": "PEcAn.CLM45",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/clm45"
+  },
+  {
+    "package": "PEcAn.DALEC",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/dalec"
+  },
+  {
+    "package": "PEcAn.dvmdostem",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/dvmdostem"
+  },
+  {
+    "package": "PEcAn.ED2",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/ed"
+  },
+  {
+    "package": "PEcAn.FATES",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/fates"
+  },
+  {
+    "package": "PEcAn.GDAY",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/gday"
+  },
+  {
+    "package": "PEcAn.JULES",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/jules"
+  },
+  {
+    "package": "PEcAn.LINKAGES",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/linkages"
+  },
+  {
+    "package": "PEcAn.LPJGUESS",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/lpjguess"
+  },
+  {
+    "package": "PEcAn.MAAT",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/maat"
+  },
+  {
+    "package": "PEcAn.MAESPA",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/maespa"
+  },
+  {
+    "package": "PEcAn.PRELES",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/preles"
+  },
+  {
+    "package": "PEcAn.SIBCASA",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/sibcasa"
+  },
+  {
+    "package": "PEcAn.SIPNET",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/sipnet"
+  },
+  {
+    "package": "PEcAn.STICS",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/stics"
+  },
+  {
+    "package": "PEcAn.ModelName",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/template"
+  },
+  {
+    "package": "PEcAn.allometry",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/allometry"
+  },
+  {
+    "package": "PEcAn.assim.batch",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/assim.batch"
+  },
+  {
+    "package": "PEcAn.assim.sequential",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/assim.sequential"
+  },
+  {
+    "package": "PEcAn.benchmark",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/benchmark"
+  },
+  {
+    "package": "PEcAn.data.atmosphere",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/data.atmosphere"
+  },
+  {
+    "package": "PEcAn.data.hydrology",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/data.hydrology"
+  },
+  {
+    "package": "PEcAn.data.land",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/data.land"
+  },
+  {
+    "package": "PEcAn.data.mining",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/data.mining"
+  },
+  {
+    "package": "PEcAn.data.remote",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/data.remote"
+  },
+  {
+    "package": "PEcAn.emulator",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/emulator"
+  },
+  {
+    "package": "PEcAn.MA",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/meta.analysis"
+  },
+  {
+    "package": "PEcAn.photosynthesis",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/photosynthesis"
+  },
+  {
+    "package": "PEcAn.priors",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/priors"
+  },
+  {
+    "package": "PEcAnRTM",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/rtm"
+  },
+  {
+    "package": "PEcAn.uncertainty",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/uncertainty"
   }
 ]
