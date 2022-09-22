@@ -45,11 +45,6 @@
     "subdir": "base/workflow"
   },
   {
-    "package": "PEcAn.BIOCRO",
-    "url": "https://github.com/PecanProject/pecan",
-    "subdir": "biocro.Rcheck/PEcAn.BIOCRO"
-  },
-  {
     "package": "PEcAn.BASGRA",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/basgra"
@@ -58,11 +53,6 @@
     "package": "PEcAn.BIOCRO",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/biocro"
-  },
-  {
-    "package": "PEcAn.BIOCRO",
-    "url": "https://github.com/PecanProject/pecan",
-    "subdir": "models/biocro/..Rcheck/PEcAn.BIOCRO"
   },
   {
     "package": "PEcAn.CABLE",
