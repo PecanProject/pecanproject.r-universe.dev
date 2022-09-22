@@ -160,7 +160,7 @@
     "subdir": "modules/assim.batch"
   },
   {
-    "package": "PEcAn.assim.sequential",
+    "package": "PEcAnAssimSequential",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "modules/assim.sequential"
   },
