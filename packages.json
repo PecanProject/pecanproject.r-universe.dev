@@ -213,5 +213,10 @@
     "package": "PEcAn.uncertainty",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "modules/uncertainty"
+  },
+  {
+    "package": "BayesianTools",
+    "url": "https://github.com/florianhartig/BayesianTools",
+    "subdir": "BayesianTools"
   }
 ]
