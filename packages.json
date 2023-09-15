@@ -5,7 +5,7 @@
     "subdir": "base/all"
   },
   {
-    "package": "PEcAn.DB",
+    "package": "PEcAn.db",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "base/db"
   },
@@ -45,27 +45,27 @@
     "subdir": "base/workflow"
   },
   {
-    "package": "PEcAn.BASGRA",
+    "package": "PEcAn.basgra",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/basgra"
   },
   {
-    "package": "PEcAn.BIOCRO",
+    "package": "PEcAn.biocro",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/biocro"
   },
   {
-    "package": "PEcAn.CABLE",
+    "package": "PEcAn.cable",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/cable"
   },
   {
-    "package": "PEcAn.CLM45",
+    "package": "PEcAn.clm45",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/clm45"
   },
   {
-    "package": "PEcAn.DALEC",
+    "package": "PEcAn.dalec",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/dalec"
   },
@@ -75,62 +75,62 @@
     "subdir": "models/dvmdostem"
   },
   {
-    "package": "PEcAn.ED2",
+    "package": "PEcAn.ed",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/ed"
   },
   {
-    "package": "PEcAn.FATES",
+    "package": "PEcAn.fates",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/fates"
   },
   {
-    "package": "PEcAn.GDAY",
+    "package": "PEcAn.gday",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/gday"
   },
   {
-    "package": "PEcAn.JULES",
+    "package": "PEcAn.jules",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/jules"
   },
   {
-    "package": "PEcAn.LINKAGES",
+    "package": "PEcAn.linkages",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/linkages"
   },
   {
-    "package": "PEcAn.LPJGUESS",
+    "package": "PEcAn.lpjguess",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/lpjguess"
   },
   {
-    "package": "PEcAn.MAAT",
+    "package": "PEcAn.maat",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/maat"
   },
   {
-    "package": "PEcAn.MAESPA",
+    "package": "PEcAn.maespa",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/maespa"
   },
   {
-    "package": "PEcAn.PRELES",
+    "package": "PEcAn.preles",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/preles"
   },
   {
-    "package": "PEcAn.SIBCASA",
+    "package": "PEcAn.sibcasa",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/sibcasa"
   },
   {
-    "package": "PEcAn.SIPNET",
+    "package": "PEcAn.sipnet",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/sipnet"
   },
   {
-    "package": "PEcAn.STICS",
+    "package": "PEcAn.stics",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/stics"
   },
@@ -150,7 +150,7 @@
     "subdir": "modules/assim.batch"
   },
   {
-    "package": "PEcAnAssimSequential",
+    "package": "PEcAn.assim.sequential",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "modules/assim.sequential"
   },
@@ -190,7 +190,7 @@
     "subdir": "modules/emulator"
   },
   {
-    "package": "PEcAn.MA",
+    "package": "PEcAn.meta.analysis",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "modules/meta.analysis"
   },
@@ -205,7 +205,7 @@
     "subdir": "modules/priors"
   },
   {
-    "package": "PEcAnRTM",
+    "package": "PEcAn.rtm",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "modules/rtm"
   },
