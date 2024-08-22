@@ -95,6 +95,11 @@
     "subdir": "models/jules"
   },
   {
+    "package": "PEcAn.LDNDC",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/ldndc"
+  },
+  {
     "package": "PEcAn.LINKAGES",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/linkages"
@@ -163,11 +168,6 @@
     "package": "PEcAn.data.atmosphere",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "modules/data.atmosphere"
-  },
-  {
-    "package": "PEcAn.data.hydrology",
-    "url": "https://github.com/PecanProject/pecan",
-    "subdir": "modules/data.hydrology"
   },
   {
     "package": "PEcAn.data.land",
