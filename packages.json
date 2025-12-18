@@ -125,6 +125,11 @@
     "subdir": "models/preles"
   },
   {
+    "package": "PEcAn.RothC",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/rothc"
+  },
+  {
     "package": "PEcAn.SIBCASA",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/sibcasa"
@@ -138,11 +143,6 @@
     "package": "PEcAn.STICS",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/stics"
-  },
-  {
-    "package": "PEcAn.ModelName",
-    "url": "https://github.com/PecanProject/pecan",
-    "subdir": "models/template"
   },
   {
     "package": "PEcAn.allometry",
