@@ -120,6 +120,11 @@
     "subdir": "models/maespa"
   },
   {
+    "package": "PEcAn.PEPRMT",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "models/peprmt"
+  },
+  {
     "package": "PEcAn.PRELES",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "models/preles"
