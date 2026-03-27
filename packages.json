@@ -222,6 +222,73 @@
   {
     "package": "BayesianTools",
     "url": "https://github.com/florianhartig/BayesianTools",
-    "subdir": "BayesianTools"
+    "subdir": "BayesianTools",
+    "metadata": {
+      "notes": "Imported by PEcAn.assim.batch"
+    }
+  },
+  {
+    "package": "BioCro",
+    "url": "https://github.com/ebimodeling/biocro",
+    "branch": "0.951",
+    "metadata": {
+      "notes": "Suggested by PEcAn.BIOCRO"
+    }
+  },
+  {
+    "package": "Maeswrap",
+    "url": "https://github.com/RemkoDuursma/Maeswrap",
+    "metadata": {
+      "notes": "Suggested by PEcAn.MAESPA"
+    }
+  },
+  {
+    "package": "PEPRMT",
+    "url": "https://github.com/abbylewis/PEPRMT-Tidal",
+    "metadata": {
+      "notes": "Imported by PEcAn.PEPRMT"
+    }
+  },
+  {
+    "package": "Rpreles",
+    "url": "https://github.com/MikkoPeltoniemi/Rpreles",
+    "metadata": {
+      "notes": "Suggested by PEcAn.PRELES"
+    }
+  },
+  {
+    "package": "SticsOnR",
+    "url": "https://github.com/SticsRPacks/SticsOnR",
+    "metadata": {
+      "notes": "Suggested by PEcAn.STICS"
+    }
+  },
+  {
+    "package": "SticsRFiles",
+    "url": "https://github.com/SticsRPacks/SticsRFiles",
+    "metadata": {
+      "notes": "Suggested by PEcAn.STICS"
+    }
+  },
+  {
+    "package": "amerifluxr",
+    "url": "https://github.com/chuhousen/amerifluxr",
+    "metadata": {
+      "notes": "Imported by PEcAn.data.atmosphere"
+    }
+  },
+  {
+    "package": "linkages",
+    "url": "https://github.com/araiho/linkages_package",
+    "metadata": {
+      "notes": "Suggested by PEcAn.data.LINKAGES"
+    }
+  },
+  {
+    "package": "nneo",
+    "url": "https://github.com/ropensci-archive/nneo",
+    "metadata": {
+      "notes": "Suggested by PEcAn.data.atmosphere"
+    }
   }
 ]
