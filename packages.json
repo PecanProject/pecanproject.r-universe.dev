@@ -223,6 +223,7 @@
     "package": "BayesianTools",
     "url": "https://github.com/florianhartig/BayesianTools",
     "subdir": "BayesianTools",
+    "noindex": true,
     "metadata": {
       "notes": "Imported by PEcAn.assim.batch"
     }
@@ -238,6 +239,7 @@
   {
     "package": "Maeswrap",
     "url": "https://github.com/RemkoDuursma/Maeswrap",
+    "noindex": true,
     "metadata": {
       "notes": "Suggested by PEcAn.MAESPA"
     }
@@ -252,6 +254,7 @@
   {
     "package": "Rpreles",
     "url": "https://github.com/MikkoPeltoniemi/Rpreles",
+    "noindex": true,
     "metadata": {
       "notes": "Suggested by PEcAn.PRELES"
     }
@@ -259,6 +262,7 @@
   {
     "package": "SticsOnR",
     "url": "https://github.com/SticsRPacks/SticsOnR",
+    "noindex": true,
     "metadata": {
       "notes": "Suggested by PEcAn.STICS"
     }
@@ -266,6 +270,7 @@
   {
     "package": "SticsRFiles",
     "url": "https://github.com/SticsRPacks/SticsRFiles",
+    "noindex": true,
     "metadata": {
       "notes": "Suggested by PEcAn.STICS"
     }
@@ -273,6 +278,7 @@
   {
     "package": "amerifluxr",
     "url": "https://github.com/chuhousen/amerifluxr",
+    "noindex": true,
     "metadata": {
       "notes": "Imported by PEcAn.data.atmosphere"
     }
@@ -280,6 +286,7 @@
   {
     "package": "linkages",
     "url": "https://github.com/araiho/linkages_package",
+    "noindex": true,
     "metadata": {
       "notes": "Suggested by PEcAn.data.LINKAGES"
     }
@@ -287,6 +294,7 @@
   {
     "package": "nneo",
     "url": "https://github.com/ropensci-archive/nneo",
+    "noindex": true,
     "metadata": {
       "notes": "Suggested by PEcAn.data.atmosphere"
     }
