@@ -190,6 +190,11 @@
     "subdir": "modules/data.remote"
   },
   {
+    "package": "PEcAn.data.water",
+    "url": "https://github.com/PecanProject/pecan",
+    "subdir": "modules/data.water"
+  },
+  {
     "package": "PEcAn.emulator",
     "url": "https://github.com/PecanProject/pecan",
     "subdir": "modules/emulator"
@@ -288,7 +293,7 @@
     "url": "https://github.com/araiho/linkages_package",
     "noindex": true,
     "metadata": {
-      "notes": "Suggested by PEcAn.data.LINKAGES"
+      "notes": "Suggested by PEcAn.LINKAGES"
     }
   },
   {
@@ -297,6 +302,14 @@
     "noindex": true,
     "metadata": {
       "notes": "Suggested by PEcAn.data.atmosphere"
+    }
+  },
+  {
+    "package": "VulnToolkit",
+    "url": "https://github.com/Smithsonian/VulnToolkit",
+    "noindex": true,
+    "metadata": {
+      "notes": "Imported by PEcAn.data.water"
     }
   }
 ]
